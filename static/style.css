@@ -413,15 +413,16 @@ html, body {
 }
 
 .msg_cotainer {
-    background-color: #82ccdd;
+    background-color: #f4f4f4;
     float: left;
     clear: both;
 }
 
 .msg_cotainer_send {
-    background-color: #78e08f;
+    background-color: #5d2fdd;
     float: right;
     clear: both;
+	color: #f4f4f4;
 }
 
 .msg_card_body {
