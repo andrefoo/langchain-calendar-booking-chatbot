@@ -8,3 +8,4 @@ langchain-openai==0.2.2
 langgraph===0.2.34
 tzlocal==5.2
 markdown==3.7
+pytz==2024.2
