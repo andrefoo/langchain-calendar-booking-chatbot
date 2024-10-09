@@ -1,0 +1,10 @@
+flask==3.0.3
+python-dotenv==1.0.1
+openai==1.50.2
+requests==2.32.3
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-openai==0.2.2
+langgraph===0.2.34
+tzlocal==5.2
+markdown==3.7
